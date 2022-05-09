@@ -30,8 +30,8 @@ F=(((C.B'.A)+(D.C'.A)+(C.B'.A))')' using NOR gate
 
 Program to design a Implementation of combinational logic using universal gates-  and verify its truth table in quartus using Verilog programming.
 ```
-Developed by: VISMAYA S
-RegisterNumber: 21222130125
+Developed by: SUWETHA M
+RegisterNumber: 21222130112
 ```
 ## IMPLEMENT THE LOGIC USING NAND GATE:
 ```
